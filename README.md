@@ -1,5 +1,5 @@
 Team Members:
-Victoria Lawton
+Victoria Lawton,
 Sriya Kurrapath
 
 **Question 1:** What are the denominations of the US coins from the green, blue and orange
