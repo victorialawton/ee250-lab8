@@ -29,6 +29,6 @@ Input 2: value = 1, weight = -2
 Input 3: value = 2, weight = 3
 bias of the neuron = -2
 
-z = (2*1) + (1*-2) + (2*3) -2 = 4
+z = (2 * 1) + (1 * -2) + (2 * 3) -2 = 4
 
 y = σ(4) = 1/(1+e^-4) = 0.982
