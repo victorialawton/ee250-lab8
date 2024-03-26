@@ -1,6 +1,6 @@
 Team Members:
 Victoria Lawton,
-Sriya Kurrapath
+Sriya Kuruppath
 
 **Question 1:** What are the denominations of the US coins from the green, blue and orange
 distributions? Can you think why the coins from the same denomination might show variation in
